@@ -1,0 +1,4 @@
+feedparser
+requests
+apscheduler
+beautifulsoup4
